@@ -1,0 +1,4 @@
+com\cg\microservices\currencyconversionservice\controller\CurrencyConversionController.class
+com\cg\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\cg\microservices\currencyconversionservice\services\CurrencyConversionServiceInterface.class
+com\cg\microservices\currencyconversionservice\bean\CurrencyConversionBean.class
