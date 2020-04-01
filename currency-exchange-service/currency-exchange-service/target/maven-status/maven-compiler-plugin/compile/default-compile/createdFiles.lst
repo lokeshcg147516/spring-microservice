@@ -1,0 +1,4 @@
+com\cg\microservice\currencyexchange\currencyexchangeservice\CurrencyExchangeServiceApplication.class
+com\cg\microservice\currencyexchange\currencyexchangeservice\controller\CurrencyExchangeController.class
+com\cg\microservice\currencyexchange\currencyexchangeservice\bean\CurrencyExchange.class
+com\cg\microservice\currencyexchange\currencyexchangeservice\repository\CurrencyExchangeRepository.class
